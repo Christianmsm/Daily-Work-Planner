@@ -1,5 +1,7 @@
 # Daily-Work-Planner
 
+* Please note, needed to create a new repository for this challenge due to conflicts with deploying. This repository only has 1 commit which was for copying from original repository. Under the "Links" is the orginal repository for commit history.
+
 ## Description
 
 This project we were tasked with creating a daily planner application that the user can add tasks in the text fields that will then be saved and stored in the local storage. 
@@ -18,14 +20,17 @@ After my first submission of this challenge I then went back to polish it up and
 ## Links
 
 GitHub Repo:
+https://github.com/Christianmsm/Daily-Work-Planner
 
+Original GitHub Repo:
+https://github.com/Christianmsm/05-Daily-Planner
 
 Deployed Site:
-
+https://christianmsm.github.io/Daily-Work-Planner/
 
 
 Screenshot:
-<img src="Develop/daily-planner-screenshot.png">
+<img src="Daily-Work-Planner-Screenshot.png">
 
 ## Credits
 
